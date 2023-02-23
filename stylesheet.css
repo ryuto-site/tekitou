@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 32px;
+  }
+  
+  button {
+    font-size: 24px;
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3E8E41;
+  }
+  
+  p {
+    font-size: 24px;
+  }
+  
